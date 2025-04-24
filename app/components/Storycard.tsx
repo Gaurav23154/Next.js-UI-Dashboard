@@ -33,7 +33,7 @@ export default function StoryCard({
         layout="fill"
         objectFit="cover"
         className="z-0"
-        priority
+        priority={false}
       />
 
       {/* Overlay content */}
