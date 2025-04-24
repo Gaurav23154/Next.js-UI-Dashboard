@@ -29,9 +29,9 @@ export default function StoryCard({
       {/* Background image */}
       <Image
         src={image}
-        alt="story"
-        layout="fill"
-        objectFit="cover"
+        alt="Example"
+        fill // replaces layout="fill"
+        style={{ objectFit: 'cover' }}
         className="z-0"
         priority={false}
       />
