@@ -57,38 +57,6 @@ const dummyStories: Story[] = [
     views: 228,
     status: "Published",
   },
-  {
-    image: "/images/image2.jpg",
-    title: "Mumbai reaches to third , Huge jump in points table of IPL",
-    category: "Sports",
-    date: "23 April 2025",
-    views: 728,
-    status: "Draft",
-  },
-  {
-    image: "/images/image10.jpg",
-    title: "MacBook Prices rises in America",
-    category: "Business",
-    date: "20 Sep 2022",
-    views: 428,
-    status: "Published",
-  },
-  {
-    image: "/images/image11.jpg",
-    title: "Inflation around the world is not ready to stop",
-    category: "Business",
-    date: "21 Sep 2021",
-    views: 28,
-    status: "Published",
-  },
-  {
-    image: "/images/image12.jpg",
-    title: "Gold Prices reaches above 1 lakh",
-    category: "Business",
-    date: "24 April 2025",
-    views: 128,
-    status: "Draft",
-  },
 ];
 
 export default function StoriesPage() {
